@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230126
+# Name: KANIMOZHI K N
+# Date: 24-11-2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1240" height="953" alt="Screenshot 2026-10-20 205142" src="https://github.com/user-attachments/assets/6320579a-29be-496d-a2f5-49c1a57c6666" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1070" height="896" alt="Screenshot 2026-10-28 145203" src="https://github.com/user-attachments/assets/fc8e71d8-40b9-49a3-834f-da3085a726c0" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="925" height="767" alt="image" src="https://github.com/user-attachments/assets/b887cc73-32e0-4d08-abf4-ac029835463e" />
 
 
 
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="927" height="740" alt="image" src="https://github.com/user-attachments/assets/1bbf100f-8125-4e22-ad38-a9281fbe3502" />
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="755" height="705" alt="image" src="https://github.com/user-attachments/assets/6b3decba-b20d-4971-9c41-166a6995256b" />
 
 
 
@@ -120,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="933" height="607" alt="image" src="https://github.com/user-attachments/assets/9aa0e198-b1e9-40f8-a45e-4f8187531ad3" />
 
 
 
